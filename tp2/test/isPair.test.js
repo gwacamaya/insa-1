@@ -25,5 +25,12 @@ describe('isPair function', function() {
         it('should expose true', function() {
           expect(isPair(5)).to.be(false);
          });
-      });  
+      }); 
+      
+      describe('Check null argument', function() {
+        it('should expose Error Exception', function() {
+          expect(isPair).withArgs().to.throwError();
+         });
+      }); 
+      
   });
