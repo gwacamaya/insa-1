@@ -70,7 +70,7 @@ fibo(15) = 610)
 * validation d’une adresse mail (utiliser une regex)
 
 # TP 3 - Jenkins - Intégration continue
-* télécharger jenkins depuis http://jenkins-ci.org/
+* télécharger jenkins depuis ​http://jenkins-ci.org/
 * démarrer jenkins avec la commande suivante :​ ​`java -jar jenkins.war`
 * se connecter à l’adresse suivante : ​http://localhost:8080/
 * installer les plugins nécessaires (ex: git, junit, etc...)

@@ -6,5 +6,13 @@
   "repository": "https://github.com/erwandf/insa",
   "author": "EDF",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "nanoid": "3.1.12",
+    "yargs-parser": "13.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
 }

@@ -1,2 +1,4 @@
 composer.phar
 vendor/
+junit_report.xml
+.phpunit.result.cache
